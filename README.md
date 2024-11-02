@@ -1,5 +1,4 @@
-[[## Hi there 👋](https://readme-typing-svg.herokuapp.com/demo/?font=Oswald&size=24&color=1B5F7D&lines=Matthew+Norris;Senior+Data+Scientist;Geospatial+Data+Scientist)](https://readme-typing-svg.herokuapp.com/demo/?font=Oswald&size=24&color=1B5F7D&lines=Matthew+Norris;Senior+Data+Scientist;Geospatial+Data+Scientist)
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Oswald&size=24&pause=1000&color=1B5F7D&width=435&lines=Matthew+Norris;Senior+Data+Scientist;Geospatial+Data+Scientist" alt="Typing SVG" /></a>
 <!--
 **mdnorris/mdnorris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
