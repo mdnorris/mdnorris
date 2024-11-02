@@ -17,6 +17,6 @@
     <img src="./assets/terminal.gif" alt="GIF is pronounced Jiff"/>
 </div>
 
-
-
+### What Drives Me
+I started in data science helping environmental and social justice startups, but I am also obsessively driven to learn as much as possible. I also have a middling memory, so sometimes I get to learn things twice. I'm fascinated by any and all developments in the tech field and do my best to learn as much about them before I get distracted by something else. My ultimate passion is combining what I have learned at work, from hobbies, from my friends and mentors to find exciting combinations (not necessarily in tech) that may not have been seen before.
 
