@@ -1,4 +1,4 @@
-## Hi there 👋
+[[## Hi there 👋](https://readme-typing-svg.herokuapp.com/demo/?font=Oswald&size=24&color=1B5F7D&lines=Matthew+Norris;Senior+Data+Scientist;Geospatial+Data+Scientist)](https://readme-typing-svg.herokuapp.com/demo/?font=Oswald&size=24&color=1B5F7D&lines=Matthew+Norris;Senior+Data+Scientist;Geospatial+Data+Scientist)
 
 <!--
 **mdnorris/mdnorris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
