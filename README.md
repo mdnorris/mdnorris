@@ -5,14 +5,16 @@
 -->
 
 
+
+
 <a href="https://git.io/typing-svg">
-<img
-  src="https://readme-typing-svg.herokuapp.com?font=Oswald&size=24&pause=1000&color=1B5F7D&width=435&lines=Matthew+Norris;Senior+Data+Scientist;Geospatial+Data+Scientist" 
-  alt="Typing SVG" />
+<img 
+    src="https://readme-typing-svg.herokuapp.com?font=Oswald&size=30&pause=800&color=1B5F7D&width=435&lines=Matthew+Norris;Senior+Data+Scientist;Geospatial+Data+Scientist" 
+    alt="Typing SVG" />
 </a>
 
 <div>
-    <img src="./assets/about_daria.gif" alt="About Me Terminal GIF"/>
+    <img src="./assets/terminal.gif" alt="GIF is pronounced Jiff"/>
 </div>
 
 
